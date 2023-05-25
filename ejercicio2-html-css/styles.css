@@ -1,0 +1,48 @@
+.container{
+   width: 300px;
+   padding: 20px;
+   border-radius: 20px;
+   margin: 0 auto;
+   background: linear-gradient(#bd09b7, #6b4cf5 );
+   box-shadow: 5px 5px 10px rgba(0, 0, 0, .5);
+   color: white;
+   padding: 10px;
+   position: relative;
+   
+}
+input{
+   width: 250px;
+  padding: 10px;
+}
+select{
+   width: 273px;
+  padding: 10px;
+}
+.boton{
+  position: absolute;
+  
+  left:-110px;
+}
+.btn{
+   width: 70px;
+   border-radius: 10px;
+   margin-left: 200px;
+}
+.term{
+   margin-left: 20px;
+}
+
+@media only screen and (max-width: 600px) {
+   .container {
+       width: auto;
+   }
+   input {
+       width: auto;
+   }
+   select {
+       width: auto;
+   }
+   .btn {
+       margin-left: auto;
+   }
+}
