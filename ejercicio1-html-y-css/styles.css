@@ -1,0 +1,44 @@
+.container{
+    width: 300px;
+    padding: 20px;
+    border-radius: 20px;
+    margin: 0 auto;
+    background: linear-gradient(#bd2109, #eff54c);
+    box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 10px 10px 5px 0px rgba(0,0,0,0.75);
+    color: white;
+    position: relative;
+
+
+}
+input{
+    padding: 7px;
+    width: 100%;
+}
+select{
+    padding: 7px;
+    width: 318px;
+
+}
+
+.boton  label{
+    display: flex;
+
+}
+.boton-1{
+    margin-left: ;
+}
+.boton {
+    
+    margin-right: 250px;
+}
+
+.btn{
+    padding: 5px 15px;
+    width: 60px;
+    border-radius: 5px;
+    margin-left: 200px;
+    
+
+}
